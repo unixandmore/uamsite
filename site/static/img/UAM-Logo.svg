@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="87 211 288 51" width="288" height="51">
+  <defs>
+    <font-face font-family="Avenir Next" font-size="30" panose-1="2 11 8 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="498" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="700">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2018-04-21 18:53:54 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="87" y="211" width="288" height="51"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_4">
+        <title>Title</title>
+        <text transform="translate(92 216)" fill="#dc322f">
+          <tspan font-family="Avenir Next" font-size="30" font-weight="700" fill="#dc322f" x="0" y="30">Unix And More LLC</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
