@@ -1,7 +1,7 @@
 ---
 title: Converting an IVM controlled machine to HMC
 date: 2018-04-23T21:49:23.808Z
-description: Migrating from IVM to HMC controlled used to be complicated.
+description: Migrating from IVM to HMC was easier that I had expected.
 ---
 I have a client that wanted to connect their P720 running standalone IVM to an HMC running one of the later releases. There is a lot of great information related to accomplishing this, from reading them it appears that the process was a bit more difficult in the past. 
 
