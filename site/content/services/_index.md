@@ -10,31 +10,21 @@ intro:
   blurbs:
     - image: /img/Services-Systems-Administration.svg
       text: >
-        AIX Linux whatever you have
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Extensive experience administering AIX and Linux systems in both 
+	enterprise environments and small scale deployments. 
     - image: /img/Services-System-Automation.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We offer help with implementing solutions like CFengine and Ansible.
     - image: /img/Services-Performance-Tuning.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Performance tuning is one of those areas that is sometimes refered to as
+        more art than science. We have experience identifying performance improvements
+        in many types of environments.  
     - image: /img/Services-Storage-Support.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        As storage has moved from locally attached disk to SAN attached storage
+	and now to the cloud, we have been growing and learning to modify our
+        methods of management. 
   heading: What we offer
   description: >
     At Unix and More while we specialize in AIX and Red Hat Linux, we are big fans
