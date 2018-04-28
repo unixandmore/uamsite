@@ -11,7 +11,7 @@ intro:
     - image: /img/Services-Systems-Administration.svg
       text: >
         Extensive experience administering AIX and Linux systems in both 
-	enterprise environments and small scale deployments. 
+        enterprise environments and small scale deployments. 
     - image: /img/Services-System-Automation.svg
       text: >
         We offer help with implementing solutions like CFengine and Ansible.
@@ -23,7 +23,7 @@ intro:
     - image: /img/Services-Storage-Support.svg
       text: >
         As storage has moved from locally attached disk to SAN attached storage
-	and now to the cloud, we have been growing and learning to modify our
+        and now to the cloud, we have been growing and learning to modify our
         methods of management. 
   heading: What we offer
   description: >
