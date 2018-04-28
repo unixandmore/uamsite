@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/Home-Logo-Jumbotron.svg"
 contact_entries:
   - heading: Location
     text: "4255 S Buckley Road #447, Aurora, CO 80013"
