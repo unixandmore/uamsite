@@ -9,7 +9,3 @@ contact_entries:
 ---
 
 We would love to hear about the projects you are working on. 
-
-
-You can also use the form below for any inquiries about
-availability, and scheduling a consultation.
